@@ -18,14 +18,10 @@ You also have to install the following libraries by using pip:
   5. [scikit-learn](https://pypi.org/project/scikit-learn/)
 
 ## Files 
-* airline_passenger_satisfaction.ipynb
-- A Jupyter notebook file contains everything such as the objectives, reading and understanding the dataset, data analysis with visualization, and modeling.
-* airline_passenger_satisfaction.py
-- A Python file contains all the project code
-* dataset.csv
-- The dataset we used for this project as CSV file
-* model.pickle
-- The machine learning model as pickle file
+* airline_passenger_satisfaction.ipynb: A Jupyter notebook file contains everything such as the objectives, reading and understanding the dataset, data analysis with visualization, and modeling.
+* airline_passenger_satisfaction.py: A Python file contains all the project code
+* dataset.csv: The dataset we used for this project as CSV file
+* model.pickle: The machine learning model as pickle file
 
 ## Objectives
 The objectives of this project is to know the best factors that contribute to high customer satisfaction ratings by answering the following:
