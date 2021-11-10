@@ -8,7 +8,7 @@ In order for an airline to be successful, It must pay close attention to some fa
 By analyzing one of the US airlines, we will attempt to find the best factors that contribute to high customer satisfaction ratings. We will also develop a machine learning classifier to do predictions if passengers are happy or dissatisfied with the trip by the end of this article.
 
 ## Installation process 
-In order to be able to run this project, you must have [Python 3](https://www.python.org/) Installed on your machine. 
+In order to be able to run this project, you must have [Python3](https://www.python.org/) Installed on your machine. 
 
 You also have to install the following libraries by using pip:
   1. [Pandas](https://pypi.org/project/pandas/)
@@ -19,13 +19,13 @@ You also have to install the following libraries by using pip:
 
 ## Files 
 * airline_passenger_satisfaction.ipynb
-A Jupyter notebook file contains everything such as the objectives, reading and understanding the dataset, data analysis with visualization, and modeling.
+- A Jupyter notebook file contains everything such as the objectives, reading and understanding the dataset, data analysis with visualization, and modeling.
 * airline_passenger_satisfaction.py
-A Python file contains all the project code
+- A Python file contains all the project code
 * dataset.csv
-The dataset we used for this project as CSV file
+- The dataset we used for this project as CSV file
 * model.pickle
-The machine learning model as pickle file
+- The machine learning model as pickle file
 
 ## Objectives
 The objectives of this project is to know the best factors that contribute to high customer satisfaction ratings by answering the following:
