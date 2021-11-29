@@ -31,7 +31,6 @@ The objectives of this project is to know the best factors that contribute to hi
 
 We also are going to build a machine learning classifier to predict customers' satisfaction by using the Scikit-learn Python library.
 
-
 ## Summary 
 we can say that caring about customer satisfaction is important for the business, and there are many factors to increase the level of satisfaction such as the class or the travel type. A machine learning model was built using Logistic Regression algorithm from Scikit-learn and acheived 83% accuracy 
 
